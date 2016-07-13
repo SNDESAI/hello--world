@@ -1,6 +1,5 @@
-# hello--world
-My own repository 
+1. Hello 
 
-Hello guys...I m here creating  my own new repository.
-I ama new member of this amazing website.
-I m making some changes.
+2. The sun rises from East.
+
+3. An apple a day keeps a doctor away.
